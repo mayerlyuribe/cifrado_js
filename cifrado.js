@@ -42,5 +42,4 @@ for (let i = 0; i < mensaje_posiciones.length; i++){
 }
 
 console.log("mensaje: " + mensaje_cifrado);
-
-console.log(".")
+console.log("---")
